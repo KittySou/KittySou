@@ -7,9 +7,11 @@
 
 - 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal
 
-- 🔭 I’m currently working on **my portfolio** and planning to perfectionate the recent projects I started at Le Wagon
+- 🔭 I’m currently working on **my portfolio** : troopl.com/kittysouriyadeth
 
 - 🌱 I’m currently learning **Ruby, Javascript, HTML, CSS, Python**
+
+- 🗓️ I'm planning to perfectionate the recent projects I started at Le Wagon
 
 - ⚡ Fun fact : I like snowboarding but I only did it once and I like surfing but I don't know how to swim 😳
 
