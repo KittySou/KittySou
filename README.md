@@ -3,11 +3,11 @@
 -->
 
 <h1 align="center">Hi there 👋, I'm Kitty!</h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h3 align="center">A passionate junior full-stack developer from Montreal, Canada</h3>
 
-- 👩‍🎓 I recently graduated as a **Full-Stack Web developer** at **Le Wagon** bootcamp in downtown Montreal. 
+- 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp in downtown Montreal
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my portfolio** and perfectionate the recent projects I started at Le Wagon
 
 - 🌱 I’m currently learning **Ruby, Javascript, HTML, CSS, Python**
 
