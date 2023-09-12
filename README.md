@@ -7,7 +7,7 @@
 
 - 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal
 
-- 🔭 I’m currently working on **my portfolio** and perfectionate the recent projects I started at Le Wagon
+- 🔭 I’m currently working on **my portfolio** and planning to perfectionate the recent projects I started at Le Wagon
 
 - 🌱 I’m currently learning **Ruby, Javascript, HTML, CSS, Python**
 
