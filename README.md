@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby, Javascript, HTML, CSS**
 
-- ⚡ Fun fact : **I like snowboarding but I only did it once and I like surfing but I don't know how to swim 😳.**
+- ⚡ Fun fact : **I like snowboarding but I only did it once and I like surfing but I don't know how to swim 😳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
