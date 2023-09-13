@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Ruby, Javascript, HTML, CSS, Python**
 
-- 🗓️ I'm planning to perfectionate the recent projects I started at Le Wagon
+- 🗓️ I'm planning to clean up the recent projects I started at Le Wagon
 
 - ⚡ Fun fact : I like snowboarding but I only did it once and I like surfing but I don't know how to swim 😳
 
