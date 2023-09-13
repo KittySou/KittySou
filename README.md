@@ -7,7 +7,7 @@
 
 - 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal
 
-- 🔭 I’m currently working on **my portfolio** : <a href="www.troopl.com/kittysouriyadeth" target="blank">click here to check it out</a>!
+- 🔭 I’m currently working on **my portfolio** : <a href="[www.troopl.com/kittysouriyadeth](https://troopl.com/kittysouriyadeth)" target="blank">click here to check it out</a>!
 
 - 🌱 I’m currently learning **Ruby, Javascript, HTML, CSS, Python**
 
