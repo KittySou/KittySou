@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Kitty!</h1>
 <h3 align="center">A passionate junior full-stack developer from Montreal, Canada</h3> <br>
 
-- 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal
+- 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal campus
 
 - 🔭 I’m currently working on **my portfolio** : <a href="https://troopl.com/kittysouriyadeth" target="_blank">click here to check it out</a>!
 
