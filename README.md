@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Kitty!
 
-### A passionate junior full-stack developer from Montreal, Canada<br>
+### A passionate junior full-stack developer from Montreal, Canada
 
 - 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal campus
 
