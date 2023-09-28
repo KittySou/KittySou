@@ -6,8 +6,6 @@
 
 ### A passionate junior full-stack developer from Montreal, Canada
 
-<br>
-
 - 👩‍🎓  I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** Montreal bootcamp
 
 - 🔭  I’m currently working on **my portfolio** : <a href="https://troopl.com/kittysouriyadeth" target="_blank">click here to check it out</a>!
@@ -23,8 +21,6 @@
 ### Connect with me:
 
 <a href="https://linkedin.com/in/kitty-souriyadeth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kitty-souriyadeth" height="30" width="40" /></a>
-
-<br>
 
 ### Languages and Tools:
 
