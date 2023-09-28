@@ -2,8 +2,9 @@
 **KittySou/KittySou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there 👋, I'm Kitty!</h1>
-<h3 align="center">A passionate junior full-stack developer from Montreal, Canada</h3> <br>
+# Hi there 👋, I'm Kitty!
+
+### A passionate junior full-stack developer from Montreal, Canada<br>
 
 - 👩‍🎓 I recently graduated from the **Full-Stack Web Development** program at **Le Wagon** bootcamp situated in Montreal campus
 
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact : I like snowboarding but I only did it once and I like surfing but I don't know how to swim 😳
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/kitty-souriyadeth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kitty-souriyadeth" height="30" width="40" /></a>
 </p>
