@@ -14,7 +14,8 @@
 
 - 🗓️ I'm planning to clean up the recent projects I started at Le Wagon
 
-- ⚡ Fun fact : I like snowboarding but I only did it once and I like surfing but I don't know how to swim 😳
+- ⚡ Fun fact: I just learned *Markdown* language while creating this README profile page! 
+
 
 ### Connect with me:
 <a href="https://linkedin.com/in/kitty-souriyadeth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kitty-souriyadeth" height="30" width="40" /></a>
