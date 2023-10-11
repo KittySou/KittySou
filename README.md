@@ -10,7 +10,7 @@
 
 - 🔭  I’m currently working on **my portfolio** : <a href="https://troopl.com/kittysouriyadeth" target="_blank">click here to check it out</a>!
 
-- 🌱  I’m currently learning **Ruby, Javascript, HTML, CSS, Python**
+- 🌱  I’m currently learning **C# and Python**
 
 - 🗓️  I'm planning to clean up the recent projects I started at Le Wagon
 
